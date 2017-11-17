@@ -1,0 +1,3 @@
+[submodule "cpp_solution/product-iterator"]
+	path = cpp_solution/product-iterator
+	url = https://github.com/mirandaconrado/product-iterator
